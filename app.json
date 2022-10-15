@@ -4,8 +4,8 @@
     "logo": "https://i.ibb.co/jZkzpw2/Queen.jpg",
     "keywords": ["multi-device","Queen-MD","DarkWinzo"],
     "repository": "https://github.com/pindiboy404/Queen-MD",
-    "website":   "https://queenmd-qr.darkwinzo.repl.co/",
-    "success_url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest",
+    "website":   "https://api-toxic-devil-production.up.railway.app/",
+    "success_url": "https://api-toxic-devil-production.up.railway.app/",
     "stack": "container",
     "env": {
         "Queen-MD_SESSION": {
