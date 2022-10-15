@@ -1,15 +1,15 @@
 	{
     "name": "Queen-MD",
     "description": "A simple WhatsApp bot.",
-    "logo": "https://i.ibb.co/d7DLjJZ/tdtod.jpg",
+    "logo": "https://i.imgur.com/53eUMHa.jpeg",
     "keywords": ["whatsapp", "simi", "Queen Md", "Bot", "bot", "api", "ai"],
     "repository": "https://github.com/pindiboy404/Queen-MD",
-    "website":   "https://api-toxic-devil-production.up.railway.app/",
-    "success_url": "https://api-toxic-devil-production.up.railway.app/",
+    "website":   "https://queenmd-qr.darkwinzo.repl.co/",
+    "success_url": "https://queenmd-qr.darkwinzo.repl.co/",
     "stack": "container",
     "env": {
         "Queen-MD_SESSION": {
-            "description": "Enter the copied SESSION here ( Copied code starting with LEON;;;eyJj & ending with 9In0= ).",
+            "description": "Enter the copied SESSION here,
             "required": true
         },
         "SUDO": {
@@ -84,7 +84,7 @@
         "OWNER_NUMBER": {
             "description": "Enter the owner number, You must enter your number, Please don't enter the number with country code ( example : 91 for indian ) Also don't enter space & + on the number ( example : 91996132xxxx for indian ). ( This number will be shown on some commands )",
             "required": false,
-            "value": "923165123719"
+            "value": ""
         },
         "SEND_READ": {
             "description": "The bot reads the incoming messages ( only commands sent by others so privacy is not breaking there ).",
