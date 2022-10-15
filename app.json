@@ -1,19 +1,19 @@
-	{
-    "name": "Queen-MD",
-    "description": "Queen-MD WhatsApp Bot Using Lib Baileys.",
+{
+    "name": "Queen Md",
+    "description": "multi-device","Queen-MD","DarkWinzo.",
     "logo": "https://i.ibb.co/jZkzpw2/Queen.jpg",
-    "keywords": ["multi-device","Queen-MD","DarkWinzo"],
+    "keywords": ["whatsapp", "simi", "Queen", "Bot", "bot", "api", "ai"],
     "repository": "https://github.com/pindiboy404/Queen-MD",
     "website":   "https://api-toxic-devil-production.up.railway.app/",
     "success_url": "https://api-toxic-devil-production.up.railway.app/",
     "stack": "container",
     "env": {
-        "Queen-MD_SESSION": {
-            "description": "Enter the copied SESSION here"UmJkVEJMcnk=" ,
+        "Queen_MD_SESSION": {
+            "description": "Enter the copied SESSION here ( Copied code starting with Um;;;eyJj & ending with nk= ).",
             "required": true
         },
         "SUDO": {
-            "description": "It gives all the privileges to the users. => 91xxx,0,91xxx,0,91xxx...",
+            "description": "It gives all the privileges to the users. => 94xxx,0,94xxx,0,94xxx...",
             "required": false
         },
         "LANGUAGE": {
@@ -74,7 +74,7 @@
         "OWNER_NAME": {
             "description": "Enter the owner name, You must enter your name ( This name will be shown on some commands )",
             "required": false,
-            "value": "Queen-MD"
+            "value": "Dark Winzo"
         },
         "AUTO_BIO": {
             "description": "Set true for auto date, time in biography.",
@@ -84,7 +84,7 @@
         "OWNER_NUMBER": {
             "description": "Enter the owner number, You must enter your number, Please don't enter the number with country code ( example : 91 for indian ) Also don't enter space & + on the number ( example : 91996132xxxx for indian ). ( This number will be shown on some commands )",
             "required": false,
-            "value": ""
+            "value": "94717632669"
         },
         "SEND_READ": {
             "description": "The bot reads the incoming messages ( only commands sent by others so privacy is not breaking there ).",
